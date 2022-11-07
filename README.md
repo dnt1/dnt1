@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Szymon
 - 👀 I’m interested in Frontend developmnet
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and do some CODEWARS
 - 💞️ I’m looking to collaborate on some open source for beginer
 - 📫 How to reach me ...
 
